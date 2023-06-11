@@ -12,6 +12,7 @@ return {
         "tsserver",
         "tailwindcss",
         "terraformls",
+        "svelte",
       })
     end,
   },
